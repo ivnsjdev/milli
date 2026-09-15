@@ -15,7 +15,7 @@ account, which we cannot access.
 Milli ("the app") is developed by **IVAN CAYABYAB** ("we", "us").
 
 For any question about this policy or your privacy, contact us at
-**milli.app.support@gmail.com**.
+**ivnsjdev@gmail.com**.
 
 ## What Milli stores, and where
 
@@ -219,4 +219,4 @@ encourage you to review this page periodically.
 
 Questions, concerns, or requests:
 
-**milli.app.support@gmail.com**
+**ivnsjdev@gmail.com**

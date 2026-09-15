@@ -16,4 +16,4 @@ subscription.
 
 ## Contact
 
-**milli.app.support@gmail.com** — we aim to reply within 2–3 business days.
+**ivnsjdev@gmail.com** — we aim to reply within 2–3 business days.

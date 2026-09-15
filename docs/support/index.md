@@ -8,7 +8,7 @@ Milli is a private, offline-first personal finance tracker for iPhone and Apple 
 
 The fastest way to reach us is email:
 
-**milli.app.support@gmail.com**
+**ivnsjdev@gmail.com**
 
 We aim to reply within 2–3 business days. To help us help you faster, please include:
 
@@ -87,7 +87,7 @@ whenever you want.
 
 ### I found a bug / I have a feature request
 
-Please email **milli.app.support@gmail.com**. Bug reports with the details listed
+Please email **ivnsjdev@gmail.com**. Bug reports with the details listed
 under [Contact](#contact) above are the most useful, and feature requests are
 genuinely read.
 
