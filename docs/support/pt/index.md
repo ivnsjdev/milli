@@ -1,6 +1,6 @@
 # Suporte do Milli
 
-**Última atualização:** 16 de setembro de 2026
+**Última atualização:** 3 de outubro de 2026
 
 O Milli é um controle financeiro pessoal privado e feito para funcionar offline em primeiro lugar, para iPhone e Apple Watch.
 
@@ -32,6 +32,7 @@ Um único pagamento único — sem assinatura — que desbloqueia:
 
 - **Unlimited accounts** — acompanhe quantas contas e livros-caixa você precisar
 - **Unlimited categories** — organize os gastos exatamente do jeito que você pensa sobre eles
+- **Unlimited Smart Chat** — registre transações digitando em linguagem natural
 - **Smart tags** — filtre e agrupe transações além das categorias
 - **Backup & iCloud sync** — mantenha seus dados seguros e em todos os seus dispositivos
 - **Home screen widgets** — veja seus saldos sem abrir o aplicativo
@@ -45,6 +46,14 @@ As compras são administradas inteiramente pela Apple, então não podemos emiti
 
 Sim. O Milli não tem servidor, análises (analytics), anúncios nem SDKs de terceiros. Seus dados permanecem no seu dispositivo e — somente se você ativar a sincronização do iCloud — na sua própria conta particular do iCloud, à qual não temos acesso. Veja todos os detalhes na
 [Política de Privacidade](../../privacy/pt/).
+
+### Como funciona o Smart Chat?
+
+O Smart Chat permite que você registre uma transação digitando-a do jeito que você falaria — "café 4,50" ou "mercado 62 ontem" — e o Milli preenche o valor, a categoria e a data. Ele funciona inteiramente no seu dispositivo e funciona offline; suas mensagens nunca são enviadas a lugar nenhum. O Smart Chat faz parte do Milli Premium — você recebe um certo número de mensagens gratuitas para experimentá-lo, e o Premium remove o limite.
+
+### O Milli classificou uma nota na categoria errada
+
+Toque na mensagem e escolha a categoria certa. O Milli memoriza sua escolha e classifica essa palavra da mesma forma na próxima vez, então um erro pontual não permanece. Você pode consultar as palavras que o Milli aprendeu, e remover qualquer uma delas, nas configurações do aplicativo.
 
 ### Meus dados não estão sincronizando entre os dispositivos
 
@@ -63,7 +72,7 @@ O Milli pode exportar um arquivo de backup a partir das configurações. Guarde-
 
 ### Posso usar o Milli no iPad?
 
-Atualmente o Milli é projetado apenas para iPhone. Ele funcionará no iPad em modo de compatibilidade, mas o layout não é otimizado para a tela maior.
+Sim. O Milli funciona no iPad assim como no iPhone. Em ambos ele usa o mesmo layout único e focado, ampliado para preencher a tela maior do iPad, em vez de um design separado de tela dividida.
 
 ### Como desativo o bloqueio por Face ID / senha?
 

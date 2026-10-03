@@ -1,6 +1,6 @@
 # Milli Hỗ trợ
 
-**Cập nhật lần cuối:** Ngày 16 tháng 9 năm 2026
+**Cập nhật lần cuối:** Ngày 3 tháng 10 năm 2026
 
 Milli là công cụ theo dõi tài chính cá nhân ngoại tuyến, riêng tư dành cho iPhone và Apple Watch.
 
@@ -33,6 +33,7 @@ Thanh toán một lần duy nhất — không cần đăng ký — sẽ mở kh�
 
 - **Unlimited accounts** — theo dõi bao nhiêu tài khoản và sổ cái tùy thích
 - **Unlimited categories** — sắp xếp chi tiêu theo cách bạn nghĩ
+- **Unlimited Smart Chat** — ghi lại giao dịch bằng cách nhập bằng ngôn ngữ thông thường
 - **Smart tags** — lọc và nhóm các giao dịch ngoài danh mục
 - **Backup & iCloud sync** — giữ dữ liệu của bạn an toàn trên tất cả các thiết bị của bạn
 - **Home screen widgets** — xem số dư của bạn mà không cần mở ứng dụng
@@ -45,6 +46,14 @@ Việc mua hàng được Apple xử lý hoàn toàn, vì vậy chúng tôi khô
 ### Dữ liệu tài chính của tôi có được bảo mật không?
 
 Đúng. Milli không có máy chủ, không có phân tích, không có quảng cáo và không có SDK của bên thứ ba. Dữ liệu của bạn vẫn còn trên thiết bị của bạn và — chỉ khi bạn bật đồng bộ hóa iCloud — trong tài khoản iCloud riêng tư của bạn mà chúng tôi không thể truy cập. Xem [Chính sách quyền riêng tư](../../privacy/vi/) để biết đầy đủ chi tiết.
+
+### Smart Chat hoạt động như thế nào?
+
+Smart Chat cho phép bạn ghi lại một giao dịch bằng cách nhập nó theo cách bạn nói — "cà phê 4,50" hoặc "tạp hóa 62 hôm qua" — và Milli điền vào số tiền, danh mục và ngày tháng. Nó chạy hoàn toàn trên thiết bị của bạn và hoạt động ngoại tuyến; tin nhắn của bạn không bao giờ được gửi đi bất cứ đâu. Smart Chat là một phần của Milli Premium — bạn nhận được một số tin nhắn miễn phí để dùng thử, và Premium gỡ bỏ giới hạn.
+
+### Milli đã phân loại một ghi chú vào sai danh mục
+
+Nhấn vào tin nhắn và chọn đúng danh mục. Milli ghi nhớ lựa chọn của bạn và phân loại từ đó theo cùng cách vào lần sau, nên một lỗi nhất thời sẽ không tồn tại mãi. Bạn có thể xem lại các từ mà Milli đã học và xóa bất kỳ từ nào trong phần cài đặt của ứng dụng.
 
 ### Dữ liệu của tôi không được đồng bộ hóa giữa các thiết bị
 
@@ -63,7 +72,7 @@ Milli có thể xuất tệp sao lưu từ cài đặt của nó. Hãy giữ nó
 
 ### Tôi có thể sử dụng Milli trên iPad không?
 
-Milli hiện chỉ được thiết kế cho iPhone. Nó sẽ chạy trên iPad ở chế độ tương thích nhưng bố cục không được tối ưu hóa cho màn hình lớn hơn.
+Có. Milli chạy trên iPad cũng như iPhone. Nó sử dụng cùng một bố cục duy nhất, tập trung trên cả hai, được phóng to để lấp đầy màn hình lớn hơn của iPad thay vì một thiết kế màn hình chia tách riêng.
 
 ### Làm cách nào để tắt khóa Face ID/passcode?
 

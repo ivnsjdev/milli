@@ -1,6 +1,6 @@
 # Milli Support
 
-**Last updated:** 16 September 2026
+**Last updated:** 3 October 2026
 
 Milli is a private, offline-first personal finance tracker for iPhone and Apple Watch.
 
@@ -35,6 +35,7 @@ A single one-time payment — no subscription — that unlocks:
 
 - **Unlimited accounts** — track as many accounts and ledgers as you need
 - **Unlimited categories** — organise spending exactly how you think about it
+- **Unlimited Smart Chat** — log transactions by typing in plain language
 - **Smart tags** — filter and group transactions beyond categories
 - **Backup & iCloud sync** — keep your data safe and on all your devices
 - **Home screen widgets** — see your balances without opening the app
@@ -51,6 +52,20 @@ Yes. Milli has no server, no analytics, no ads, and no third-party SDKs. Your
 data stays on your device, and — only if you turn on iCloud sync — in your own
 private iCloud account, which we cannot access. See the
 [Privacy Policy](../privacy/) for full detail.
+
+### How does Smart Chat work?
+
+Smart Chat lets you log a transaction by typing it the way you'd say it — "coffee
+4.50", or "groceries 62 yesterday" — and Milli fills in the amount, category and
+date. It runs entirely on your device and works offline; your messages are never
+sent anywhere. Smart Chat is part of Milli Premium — you get a number of free
+messages to try it, and Premium removes the limit.
+
+### Milli filed a note under the wrong category
+
+Tap the message and pick the right category. Milli remembers your choice and files
+that word the same way next time, so a one-off mistake does not stick. You can
+review the words Milli has learned, and remove any of them, in the app's settings.
 
 ### My data is not syncing between devices
 
@@ -71,8 +86,9 @@ exported, that file is under your control, so treat it like a bank statement.
 
 ### Can I use Milli on iPad?
 
-Milli is currently designed for iPhone only. It will run on an iPad in compatibility
-mode, but the layout is not optimised for the larger screen.
+Yes. Milli runs on iPad as well as iPhone. It uses the same single, focused layout
+on both, scaled up to fill the iPad's larger screen rather than a separate
+split-screen design.
 
 ### How do I turn off the Face ID / passcode lock?
 

@@ -1,7 +1,7 @@
 # Zásady ochrany osobních údajů pro Milli
 
 **Datum účinnosti:** 1. srpna 2026
-**Poslední aktualizace:** 16. září 2026
+**Poslední aktualizace:** 3. října 2026
 
 ## Stručná verze
 
@@ -31,11 +31,31 @@ zařízení v místní databázi. Nikdy je nezískáváme.
 | Referenční mzdové údaje, které zadáte | Ve vašem zařízení | Ne |
 | Profilová fotka | Ve vašem zařízení | Ne |
 | Nastavení a předvolby aplikace | Ve vašem zařízení | Ne |
+| Slova, která se Milli naučí z vašich oprav v chatu | Ve vašem zařízení | Ne |
 | Transakce, které zadáte na Apple Watch | Na vašich Apple Watch, poté na vašem iPhonu | Ne |
 
 Nic z toho neshromažďujeme, nepřenášíme, neprodáváme, nepronajímáme ani nesdílíme,
 protože aplikace nemá žádnou možnost cokoli kamkoli odeslat. Milli neprovádí žádné
 síťové požadavky na žádný server provozovaný námi ani třetí stranou.
+
+## Smart Chat a inteligence v zařízení
+
+**Smart Chat** v Milli vám umožňuje zaznamenat transakci tak, že ji napíšete
+běžným jazykem — „káva 4,50“ nebo „potraviny 62 včera“ — a Milli za vás určí
+částku, kategorii a datum.
+
+To vše se děje **ve vašem zařízení**. Milli využívá inteligenci Apple v zařízení
+a textové funkce v zařízení zabudované do iOS, se záložním jednoduchým čtecím
+nástrojem založeným na pravidlech, když tyto nejsou k dispozici. Neexistuje žádný
+server s umělou inteligencí: vaše zpráva se čte v zařízení a nikdy se neodesílá
+nám ani žádné třetí straně.
+
+Když vyberete nebo opravíte kategorii pro poznámku, Milli si toto slovo
+zapamatuje, aby se stejná poznámka příště zařadila sama. Tato naučená spojení
+mezi slovem a kategorií se ukládají pouze ve vašem zařízení, vedle zbytku vašich
+dat, a nikdy se nepřenášejí. Můžete je zkontrolovat a kterékoli z nich odstranit
+přímo v aplikaci. Milli nepoužívá to, co píšete, ani nic jiného, co zadáte,
+k trénování jakéhokoli modelu strojového učení.
 
 ## Synchronizace s iCloud (volitelná)
 
@@ -145,7 +165,8 @@ Aby bylo jasno, Milli **ne**:
 - vytváří uživatelské účty ani nevyžaduje e-mailovou adresu, telefonní číslo nebo
   přihlášení
 - čte údaje o zdraví, kondici ani poloze z vašeho iPhonu nebo Apple Watch
-- používá vaše data k trénování modelů strojového učení
+- odesílá vaše data jakékoli službě AI ani je nepoužívá k trénování modelů
+  strojového učení — Smart Chat běží zcela ve vašem zařízení
 
 Štítek ochrany osobních údajů Milli v App Store to odráží: **Data Not Collected
 (údaje nejsou shromažďovány)**.

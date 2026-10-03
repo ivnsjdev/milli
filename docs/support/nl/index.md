@@ -1,6 +1,6 @@
 # Milli Ondersteuning
 
-**Laatst bijgewerkt:** 16 september 2026
+**Laatst bijgewerkt:** 3 oktober 2026
 
 Milli is een privé, offline-first app voor persoonlijke financiën voor iPhone en Apple Watch.
 
@@ -32,6 +32,7 @@ Eén eenmalige betaling — geen abonnement — die het volgende ontgrendelt:
 
 - **Unlimited accounts** — houd zoveel rekeningen en grootboeken bij als u nodig heeft
 - **Unlimited categories** — organiseer uw uitgaven precies zoals u erover denkt
+- **Unlimited Smart Chat** — leg transacties vast door ze in gewone taal in te typen
 - **Smart tags** — filter en groepeer transacties naast categorieën
 - **Backup & iCloud sync** — houd uw gegevens veilig en op al uw apparaten
 - **Home screen widgets** — bekijk uw saldi zonder de app te openen
@@ -44,6 +45,14 @@ Aankopen worden volledig door Apple afgehandeld, dus wij kunnen zelf geen terugb
 ### Zijn mijn financiële gegevens privé?
 
 Ja. Milli heeft geen server, geen analyse, geen advertenties en geen SDK's van derden. Uw gegevens blijven op uw apparaat, en — alleen als u iCloud-synchronisatie inschakelt — in uw eigen privé-iCloud-account, waar wij geen toegang toe hebben. Zie het [Privacybeleid](../../privacy/nl/) voor volledige details.
+
+### Hoe werkt Smart Chat?
+
+Met Smart Chat kunt u een transactie vastleggen door deze te typen zoals u het zou zeggen — "koffie 4,50" of "boodschappen 62 gisteren" — en Milli vult het bedrag, de categorie en de datum in. Het draait volledig op uw apparaat en werkt offline; uw berichten worden nooit ergens naartoe verzonden. Smart Chat maakt deel uit van Milli Premium — u krijgt een aantal gratis berichten om het te proberen, en Premium heft de limiet op.
+
+### Milli heeft een notitie onder de verkeerde categorie geplaatst
+
+Tik op het bericht en kies de juiste categorie. Milli onthoudt uw keuze en plaatst dat woord de volgende keer op dezelfde manier, zodat een eenmalige vergissing niet blijft hangen. U kunt de woorden die Milli heeft geleerd bekijken, en elk ervan verwijderen, in de instellingen van de app.
 
 ### Mijn gegevens synchroniseren niet tussen apparaten
 
@@ -62,7 +71,7 @@ Milli kan een back-upbestand exporteren vanuit de instellingen. Bewaar het op ee
 
 ### Kan ik Milli op iPad gebruiken?
 
-Milli is momenteel alleen ontworpen voor iPhone. Het werkt op een iPad in compatibiliteitsmodus, maar de indeling is niet geoptimaliseerd voor het grotere scherm.
+Ja. Milli werkt op iPad én op iPhone. Op beide gebruikt het dezelfde enkele, gerichte indeling, vergroot om het grotere scherm van de iPad te vullen in plaats van een aparte split-screenindeling.
 
 ### Hoe schakel ik de Face ID-/toegangscodevergrendeling uit?
 

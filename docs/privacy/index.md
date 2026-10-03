@@ -1,7 +1,7 @@
 # Privacy Policy for Milli
 
 **Effective date:** 1 August 2026
-**Last updated:** 16 September 2026
+**Last updated:** 3 October 2026
 
 ## The short version
 
@@ -31,11 +31,30 @@ device in a local database. We never receive it.
 | Salary benchmark figures you enter | On your device | No |
 | Profile picture | On your device | No |
 | App settings and preferences | On your device | No |
+| Words Milli learns from your chat corrections | On your device | No |
 | Transactions you enter on Apple Watch | On your Apple Watch, then on your iPhone | No |
 
 We do not collect, transmit, sell, rent, or share any of it, because the app has
 no capability to send it anywhere. Milli makes no network requests to any server
 operated by us or by any third party.
+
+## Smart Chat and on-device intelligence
+
+Milli's **Smart Chat** lets you log a transaction by typing it in plain language —
+"coffee 4.50", or "groceries 62 yesterday" — and Milli works out the amount,
+category and date for you.
+
+All of this happens **on your device**. Milli uses Apple's on-device intelligence
+and the on-device text features built into iOS, with a simple rule-based reader as
+a fallback when those are not available. There is no AI server: your message is
+read on the device and is never sent to us or to any third party.
+
+When you pick or correct the category for a note, Milli remembers that word so the
+same note files itself next time. These learned word-to-category associations are
+stored on your device only, alongside the rest of your data, and are never
+transmitted. You can review them, and remove any of them, in the app. Milli does
+not use what you type, or anything else you enter, to train any machine-learning
+model.
 
 ## iCloud sync (optional)
 
@@ -145,7 +164,8 @@ To be explicit, Milli does **not**:
 - track you across apps or websites, or share data with data brokers
 - create user accounts, or require an email address, phone number, or login
 - read health, fitness, or location data from your iPhone or Apple Watch
-- use your data to train machine learning models
+- send your data to any AI service, or use it to train machine-learning models —
+  Smart Chat runs entirely on your device
 
 Milli's App Store privacy label reflects this: **Data Not Collected**.
 

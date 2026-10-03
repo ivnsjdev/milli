@@ -1,7 +1,7 @@
 # Milli için Gizlilik Politikası
 
 **Yürürlük tarihi:** 1 Ağustos 2026
-**Son güncelleme:** 16 Eylül 2026
+**Son güncelleme:** 3 Ekim 2026
 
 ## Kısaca
 
@@ -26,9 +26,18 @@ Milli kişisel bir finans uygulamasıdır. Girdiğiniz bilgiler cihazınızda ye
 | Girdiğiniz maaş karşılaştırma rakamları | Cihazınızda | Hayır |
 | Profil resmi | Cihazınızda | Hayır |
 | Uygulama ayarları ve tercihleri | Cihazınızda | Hayır |
+| Milli'nin sohbet düzeltmelerinizden öğrendiği kelimeler | Cihazınızda | Hayır |
 | Apple Watch'ta girdiğiniz işlemler | Apple Watch'ınızda, ardından iPhone'unuzda | Hayır |
 
 Bunların hiçbirini toplamayız, iletmeyiz, satmayız, kiralamayız veya paylaşmayız; çünkü uygulamanın bunları herhangi bir yere gönderme kapasitesi yoktur. Milli, bizim veya herhangi bir üçüncü tarafın işlettiği hiçbir sunucuya ağ isteği göndermez.
+
+## Smart Chat ve cihaz üzerindeki zeka
+
+Milli'nin **Smart Chat**'i, bir işlemi düz bir dille yazarak kaydetmenizi sağlar — "kahve 4,50" veya "market 62 dün" — ve Milli tutarı, kategoriyi ve tarihi sizin için belirler.
+
+Bütün bunlar **cihazınızda** gerçekleşir. Milli, Apple'ın cihaz üzerindeki zekasını ve iOS'a yerleşik cihaz üzerindeki metin özelliklerini kullanır; bunlar kullanılamadığında yedek olarak basit, kural tabanlı bir okuyucu devreye girer. Bir yapay zeka sunucusu yoktur: mesajınız cihazda okunur ve asla bize ya da herhangi bir üçüncü tarafa gönderilmez.
+
+Bir not için kategoriyi seçtiğinizde veya düzelttiğinizde, Milli o kelimeyi hatırlar, böylece aynı not bir sonraki sefere kendini aynı şekilde dosyalar. Öğrenilen bu kelime-kategori ilişkileri yalnızca cihazınızda, verilerinizin geri kalanının yanında saklanır ve asla iletilmez. Bunları uygulamada gözden geçirebilir ve herhangi birini kaldırabilirsiniz. Milli, yazdıklarınızı veya girdiğiniz başka hiçbir şeyi herhangi bir makine öğrenimi modelini eğitmek için kullanmaz.
 
 ## iCloud senkronizasyonu (isteğe bağlı)
 
@@ -90,7 +99,7 @@ Açıkça belirtmek gerekirse, Milli:
 - sizi uygulamalar veya web siteleri arasında takip etmez, verileri veri komisyoncularıyla paylaşmaz
 - kullanıcı hesabı oluşturmaz veya e-posta adresi, telefon numarası ya da oturum açma gerektirmez
 - iPhone'unuzdan veya Apple Watch'ınızdan sağlık, fitness veya konum verisi okumaz
-- verilerinizi makine öğrenimi modellerini eğitmek için kullanmaz
+- verilerinizi herhangi bir yapay zeka hizmetine göndermez veya makine öğrenimi modellerini eğitmek için kullanmaz — Smart Chat tamamen cihazınızda çalışır
 
 Milli'nin App Store gizlilik etiketi bunu yansıtır: **Data Not Collected (Veri Toplanmıyor)**.
 

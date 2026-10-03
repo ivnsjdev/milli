@@ -1,7 +1,7 @@
 # Privacybeleid voor Milli
 
 **Ingangsdatum:** 1 augustus 2026
-**Laatst bijgewerkt:** 16 september 2026
+**Laatst bijgewerkt:** 3 oktober 2026
 
 ## Kort samengevat
 
@@ -26,9 +26,18 @@ Milli is een persoonlijke financiële app. De informatie die u invoert wordt opg
 | Salarisbenchmarkcijfers die u invoert | Op uw apparaat | Nee |
 | Profielfoto | Op uw apparaat | Nee |
 | App-instellingen en voorkeuren | Op uw apparaat | Nee |
+| Woorden die Milli leert van uw chatcorrecties | Op uw apparaat | Nee |
 | Transacties die u invoert op Apple Watch | Op uw Apple Watch, daarna op uw iPhone | Nee |
 
 Wij verzamelen, verzenden, verkopen, verhuren of delen niets hiervan, omdat de app niet in staat is om iets waar dan ook naartoe te sturen. Milli doet geen netwerkverzoeken naar enige server die door ons of door derden wordt beheerd.
+
+## Smart Chat en intelligentie op het apparaat
+
+Met **Smart Chat** van Milli kunt u een transactie vastleggen door deze in gewone taal in te typen — "koffie 4,50" of "boodschappen 62 gisteren" — en Milli bepaalt voor u het bedrag, de categorie en de datum.
+
+Dit alles gebeurt **op uw apparaat**. Milli gebruikt Apple's intelligentie op het apparaat en de in iOS ingebouwde tekstfuncties op het apparaat, met een eenvoudige op regels gebaseerde lezer als terugvaloptie wanneer deze niet beschikbaar zijn. Er is geen AI-server: uw bericht wordt op het apparaat gelezen en wordt nooit naar ons of naar een derde partij verzonden.
+
+Wanneer u de categorie voor een notitie kiest of corrigeert, onthoudt Milli dat woord zodat dezelfde notitie zichzelf de volgende keer indeelt. Deze aangeleerde koppelingen tussen woord en categorie worden alleen op uw apparaat opgeslagen, samen met de rest van uw gegevens, en worden nooit verzonden. U kunt ze bekijken, en elk ervan verwijderen, in de app. Milli gebruikt niet wat u typt, noch iets anders dat u invoert, om enig machine-learningmodel te trainen.
 
 ## iCloud-synchronisatie (optioneel)
 
@@ -90,7 +99,7 @@ Om het expliciet te stellen, Milli:
 - volgt u niet over apps of websites heen, en deelt geen gegevens met databrokers
 - maakt geen gebruikersaccounts aan en vereist geen e-mailadres, telefoonnummer of inlog
 - leest geen gezondheids-, fitness- of locatiegegevens van uw iPhone of Apple Watch
-- gebruikt uw gegevens niet om machine-learningmodellen te trainen
+- verzendt uw gegevens niet naar een AI-dienst en gebruikt ze niet om machine-learningmodellen te trainen — Smart Chat draait volledig op uw apparaat
 
 Het App Store-privacylabel van Milli weerspiegelt dit: **Data Not Collected (geen gegevens verzameld)**.
 

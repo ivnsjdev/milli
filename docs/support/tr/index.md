@@ -1,6 +1,6 @@
 # Milli Destek
 
-**Son güncelleme:** 16 Eylül 2026
+**Son güncelleme:** 3 Ekim 2026
 
 Milli, iPhone ve Apple Watch için özel, çevrimdışı öncelikli bir kişisel finans takip uygulamasıdır.
 
@@ -32,6 +32,7 @@ Abonelik olmayan, tek seferlik tek bir ödeme şunların kilidini açar:
 
 - **Unlimited accounts** — ihtiyacınız kadar hesap ve defteri takip edin
 - **Unlimited categories** — harcamaları tam olarak düşündüğünüz şekilde düzenleyin
+- **Unlimited Smart Chat** — işlemleri düz bir dille yazarak kaydedin
 - **Smart tags** — işlemleri kategorilerin ötesinde filtreleyin ve gruplandırın
 - **Backup & iCloud sync** — verilerinizi güvende ve tüm cihazlarınızda tutun
 - **Home screen widgets** — uygulamayı açmadan bakiyelerinizi görün
@@ -44,6 +45,14 @@ Satın almalar tamamen Apple tarafından yönetilir, bu yüzden kendimiz para ia
 ### Finansal verilerim özel mi?
 
 Evet. Milli'nin sunucusu, analizi, reklamı ve üçüncü taraf SDK'sı yoktur. Verileriniz cihazınızda kalır ve — yalnızca iCloud senkronizasyonunu açarsanız — bizim erişemediğimiz kendi özel iCloud hesabınızda saklanır. Tüm ayrıntılar için [Privacy Policy](../../privacy/tr/)'ye bakın.
+
+### Smart Chat nasıl çalışır?
+
+Smart Chat, bir işlemi tıpkı söyleyeceğiniz gibi yazarak kaydetmenizi sağlar — "kahve 4,50" veya "market 62 dün" — ve Milli tutarı, kategoriyi ve tarihi doldurur. Tamamen cihazınızda çalışır ve çevrimdışı işler; mesajlarınız asla hiçbir yere gönderilmez. Smart Chat, Milli Premium'un bir parçasıdır — denemeniz için belirli sayıda ücretsiz mesaj alırsınız ve Premium sınırı kaldırır.
+
+### Milli bir notu yanlış kategoriye dosyaladı
+
+Mesaja dokunun ve doğru kategoriyi seçin. Milli seçiminizi hatırlar ve bir sonraki sefere o kelimeyi aynı şekilde dosyalar, böylece tek seferlik bir hata kalıcı olmaz. Milli'nin öğrendiği kelimeleri uygulamanın ayarlarında gözden geçirebilir ve herhangi birini kaldırabilirsiniz.
 
 ### Verilerim cihazlar arasında senkronize olmuyor
 
@@ -62,7 +71,7 @@ Milli, ayarlarından bir yedek dosyası dışa aktarabilir. Onu güvenli bir yer
 
 ### Milli'yi iPad'de kullanabilir miyim?
 
-Milli şu anda yalnızca iPhone için tasarlanmıştır. iPad'de uyumluluk modunda çalışır, ancak düzen daha büyük ekran için optimize edilmemiştir.
+Evet. Milli, iPhone'un yanı sıra iPad'de de çalışır. Her ikisinde de aynı tek, odaklanmış düzeni kullanır; ayrı bir bölünmüş ekran tasarımı yerine iPad'in daha büyük ekranını dolduracak şekilde büyütülmüştür.
 
 ### Face ID / şifre kilidini nasıl kapatırım?
 

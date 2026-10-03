@@ -1,7 +1,7 @@
 # Personvernerklæring for Milli
 
 **Ikrafttredelsesdato:** 1. august 2026
-**Sist oppdatert:** 16. september 2026
+**Sist oppdatert:** 3. oktober 2026
 
 ## Kortversjonen
 
@@ -26,9 +26,18 @@ Milli er en personlig økonomiapp. Informasjonen du legger inn, lagres på enhet
 | Lønnsbenchmark-tall du legger inn | På enheten din | Nei |
 | Profilbilde | På enheten din | Nei |
 | Appinnstillinger og preferanser | På enheten din | Nei |
+| Ord Milli lærer av rettelsene dine i chatten | På enheten din | Nei |
 | Transaksjoner du legger inn på Apple Watch | På Apple Watch, deretter på iPhonen din | Nei |
 
 Vi samler ikke inn, overfører, selger, leier ut eller deler noe av dette, fordi appen ikke har noen mulighet til å sende det noe sted. Milli gjør ingen nettverksforespørsler til noen server driftet av oss eller av tredjeparter.
+
+## Smart Chat og intelligens på enheten
+
+Millis **Smart Chat** lar deg registrere en transaksjon ved å skrive den på vanlig språk — «kaffe 4,50», eller «dagligvarer 62 i går» — og Milli finner ut beløpet, kategorien og datoen for deg.
+
+Alt dette skjer **på enheten din**. Milli bruker Apples intelligens på enheten og tekstfunksjonene på enheten som er innebygd i iOS, med en enkel regelbasert leser som reserve når disse ikke er tilgjengelige. Det finnes ingen AI-server: meldingen din leses på enheten og sendes aldri til oss eller til noen tredjepart.
+
+Når du velger eller korrigerer kategorien for et notat, husker Milli det ordet slik at det samme notatet klassifiserer seg selv neste gang. Disse innlærte koblingene mellom ord og kategori lagres kun på enheten din, sammen med resten av dataene dine, og overføres aldri. Du kan se gjennom dem, og fjerne hvilke som helst av dem, i appen. Milli bruker ikke det du skriver, eller noe annet du legger inn, til å trene opp noen maskinlæringsmodell.
 
 ## iCloud-synkronisering (valgfritt)
 
@@ -90,7 +99,7 @@ For å være tydelig: Milli gjør **ikke** følgende:
 - sporer deg på tvers av apper eller nettsteder, eller deler data med databrokere
 - oppretter brukerkontoer, eller krever en e-postadresse, et telefonnummer eller innlogging
 - leser helse-, trenings- eller posisjonsdata fra iPhonen eller Apple Watch
-- bruker dataene dine til å trene opp maskinlæringsmodeller
+- sender dataene dine til noen AI-tjeneste, eller bruker dem til å trene opp maskinlæringsmodeller — Smart Chat kjører helt på enheten din
 
 Millis personvernmerking i App Store gjenspeiler dette: **Data Not Collected (data samles ikke inn)**.
 

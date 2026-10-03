@@ -1,6 +1,6 @@
 # Podpora Milli
 
-**Poslední aktualizace:** 16. září 2026
+**Poslední aktualizace:** 3. října 2026
 
 Milli je soukromá aplikace pro sledování osobních financí bez připojení, pro
 iPhone a Apple Watch.
@@ -38,6 +38,7 @@ Jednorázová platba — žádné předplatné — která odemyká:
 
 - **Unlimited accounts** — sledujte tolik účtů a účetních knih, kolik potřebujete
 - **Unlimited categories** — organizujte výdaje přesně tak, jak o nich přemýšlíte
+- **Unlimited Smart Chat** — zaznamenávejte transakce jejich napsáním běžným jazykem
 - **Smart tags** — filtrujte a seskupujte transakce nad rámec kategorií
 - **Backup & iCloud sync** — udržte svá data v bezpečí a na všech svých zařízeních
 - **Home screen widgets** — sledujte své zůstatky bez otevírání aplikace
@@ -54,6 +55,21 @@ Ano. Milli nemá server, analytiku, reklamy ani SDK třetích stran. Vaše data
 zůstávají ve vašem zařízení a — pouze pokud zapnete synchronizaci s iCloud — ve
 vašem vlastním soukromém účtu iCloud, ke kterému nemáme přístup. Podrobnosti
 najdete v [zásadách ochrany osobních údajů](../../privacy/cs/).
+
+### Jak Smart Chat funguje?
+
+Smart Chat vám umožňuje zaznamenat transakci tak, že ji napíšete, jak byste ji
+řekli — „káva 4,50“ nebo „potraviny 62 včera“ — a Milli doplní částku, kategorii
+a datum. Běží zcela ve vašem zařízení a funguje offline; vaše zprávy se nikdy
+nikam neodesílají. Smart Chat je součástí Milli Premium — získáte určitý počet
+zpráv zdarma na vyzkoušení a Premium tento limit odstraní.
+
+### Milli zařadilo poznámku do nesprávné kategorie
+
+Klepněte na zprávu a vyberte správnou kategorii. Milli si vaši volbu zapamatuje
+a příště zařadí toto slovo stejně, takže jednorázová chyba nezůstane. Slova,
+která se Milli naučilo, si můžete prohlédnout a kterékoli z nich odstranit
+v nastavení aplikace.
 
 ### Má data se nesynchronizují mezi zařízeními
 
@@ -75,8 +91,9 @@ zacházejte jako s bankovním výpisem.
 
 ### Mohu používat Milli na iPadu?
 
-Milli je momentálně navrženo pouze pro iPhone. Na iPadu poběží v režimu
-kompatibility, ale rozvržení není optimalizováno pro větší obrazovku.
+Ano. Milli běží na iPadu i na iPhonu. Na obou používá stejné jediné,
+soustředěné rozvržení, zvětšené tak, aby vyplnilo větší obrazovku iPadu, místo
+samostatného návrhu s rozdělenou obrazovkou.
 
 ### Jak vypnu zámek Face ID / kódem?
 

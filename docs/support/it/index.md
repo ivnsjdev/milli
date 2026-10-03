@@ -1,6 +1,6 @@
 # Assistenza Milli
 
-**Ultimo aggiornamento:** 16 settembre 2026
+**Ultimo aggiornamento:** 3 ottobre 2026
 
 Milli è un'app privata e offline-first per il monitoraggio delle finanze
 personali su iPhone e Apple Watch.
@@ -41,6 +41,8 @@ Un unico pagamento una tantum — nessun abbonamento — che sblocca:
 - **Unlimited accounts** — tieni traccia di tutti i conti e registri di cui
   hai bisogno
 - **Unlimited categories** — organizza le spese esattamente come le pensi tu
+- **Unlimited Smart Chat** — registra le transazioni digitandole in
+  linguaggio naturale
 - **Smart tags** — filtra e raggruppa le transazioni oltre le categorie
 - **Backup & iCloud sync** — mantieni i tuoi dati al sicuro e su tutti i tuoi
   dispositivi
@@ -60,6 +62,22 @@ terze parti. I tuoi dati restano sul tuo dispositivo e — solo se attivi la
 sincronizzazione iCloud — nel tuo account iCloud privato, a cui non possiamo
 accedere. Consulta l'
 [Informativa sulla privacy](../../privacy/it/) per tutti i dettagli.
+
+### Come funziona lo Smart Chat?
+
+Lo Smart Chat ti permette di registrare una transazione digitandola come la
+diresti — "caffè 4,50" o "spesa 62 ieri" — e Milli compila l'importo, la
+categoria e la data. Funziona interamente sul tuo dispositivo e anche
+offline; i tuoi messaggi non vengono mai inviati da nessuna parte. Lo Smart
+Chat fa parte di Milli Premium — hai a disposizione un certo numero di
+messaggi gratuiti per provarlo, e Premium rimuove il limite.
+
+### Milli ha classificato una nota nella categoria sbagliata
+
+Tocca il messaggio e scegli la categoria giusta. Milli ricorda la tua scelta
+e classifica quella parola allo stesso modo la volta successiva, così un
+errore occasionale non resta. Puoi consultare le parole che Milli ha
+imparato, ed eliminarne una qualsiasi, nelle impostazioni dell'app.
 
 ### I miei dati non si sincronizzano tra i dispositivi
 
@@ -82,9 +100,9 @@ quindi trattalo come un estratto conto bancario.
 
 ### Posso usare Milli su iPad?
 
-Milli è attualmente progettata solo per iPhone. Funzionerà su un iPad in
-modalità compatibilità, ma il layout non è ottimizzato per lo schermo più
-grande.
+Sì. Milli funziona sia su iPad sia su iPhone. Su entrambi usa lo stesso
+layout unico e mirato, ingrandito per riempire lo schermo più grande
+dell'iPad anziché un design a schermo diviso separato.
 
 ### Come disattivo il blocco Face ID / codice?
 

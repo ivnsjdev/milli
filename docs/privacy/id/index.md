@@ -1,7 +1,7 @@
 # Kebijakan Privasi Milli
 
 **Tanggal berlaku:** 1 Agustus 2026
-**Terakhir diperbarui:** 16 September 2026
+**Terakhir diperbarui:** 3 Oktober 2026
 
 ## Versi singkat
 
@@ -32,12 +32,33 @@ perangkat Anda dalam database lokal. Kami tidak pernah menerimanya.
 | Angka acuan gaji yang Anda masukkan | Di perangkat Anda | Tidak |
 | Foto profil | Di perangkat Anda | Tidak |
 | Pengaturan dan preferensi aplikasi | Di perangkat Anda | Tidak |
+| Kata-kata yang dipelajari Milli dari koreksi obrolan Anda | Di perangkat Anda | Tidak |
 | Transaksi yang Anda masukkan di Apple Watch | Di Apple Watch Anda, lalu di iPhone Anda | Tidak |
 
 Kami tidak mengumpulkan, mengirimkan, menjual, menyewakan, atau membagikan salah
 satu di antaranya, karena aplikasi ini tidak memiliki kemampuan untuk
 mengirimkannya ke mana pun. Milli tidak membuat permintaan jaringan ke server
 mana pun yang dioperasikan oleh kami atau pihak ketiga mana pun.
+
+## Smart Chat dan kecerdasan di perangkat
+
+**Smart Chat** milik Milli memungkinkan Anda mencatat transaksi dengan
+mengetiknya dalam bahasa sehari-hari — "kopi 4,50", atau "belanja 62 kemarin" —
+dan Milli menghitung jumlah, kategori, dan tanggalnya untuk Anda.
+
+Semua ini terjadi **di perangkat Anda**. Milli menggunakan kecerdasan di
+perangkat milik Apple dan fitur teks di perangkat yang terpasang di iOS, dengan
+pembaca berbasis aturan sederhana sebagai cadangan saat fitur itu tidak
+tersedia. Tidak ada server AI: pesan Anda dibaca di perangkat dan tidak pernah
+dikirim kepada kami atau pihak ketiga mana pun.
+
+Saat Anda memilih atau mengoreksi kategori untuk sebuah catatan, Milli mengingat
+kata tersebut sehingga catatan yang sama mengarsipkan dirinya sendiri di lain
+waktu. Asosiasi kata-ke-kategori yang dipelajari ini disimpan hanya di perangkat
+Anda, bersama data Anda yang lain, dan tidak pernah dikirimkan. Anda dapat
+meninjaunya, dan menghapus salah satunya, di aplikasi. Milli tidak menggunakan
+apa yang Anda ketik, atau apa pun yang Anda masukkan, untuk melatih model
+pembelajaran mesin apa pun.
 
 ## Sinkronisasi iCloud (opsional)
 
@@ -162,7 +183,8 @@ Agar jelas, Milli **tidak**:
   login
 - membaca data kesehatan, kebugaran, atau lokasi dari iPhone atau Apple Watch
   Anda
-- menggunakan data Anda untuk melatih model pembelajaran mesin
+- mengirim data Anda ke layanan AI apa pun, atau menggunakannya untuk melatih
+  model pembelajaran mesin — Smart Chat berjalan sepenuhnya di perangkat Anda
 
 Label privasi App Store milik Milli mencerminkan hal ini: **Data Not Collected
 (data tidak dikumpulkan)**.

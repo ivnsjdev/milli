@@ -1,6 +1,6 @@
 # Az Milli adatvédelmi szabályzata
 
-**Hatálybalépés dátuma:** 2026. augusztus 1. **Utolsó frissítés:** 2026. szeptember 16.
+**Hatálybalépés dátuma:** 2026. augusztus 1. **Utolsó frissítés:** 2026. október 3.
 
 ## A rövid változat
 
@@ -25,9 +25,18 @@ Az Milli egy személyes pénzügyi alkalmazás. A megadott információkat a ké
 | Ön által megadott fizetési referenciaadatok | Az Ön készülékén | Nem |
 | Profilkép | Az Ön készülékén | Nem |
 | Alkalmazásbeállítások és -beállítások | Az Ön készülékén | Nem |
+| A chat-javításaiból Milli által megtanult szavak | Az Ön készülékén | Nem |
 | Az Apple Watch | oldalon megadott tranzakciók Az Apple Watch, majd az iPhone | Nem |
 
 Nem gyűjtjük, továbbítjuk, eladjuk, béreljük vagy megosztjuk, mert az alkalmazás nem képes sehova elküldeni. Az Milli nem küld hálózati kéréseket az általunk vagy harmadik fél által üzemeltetett szerverekhez.
+
+## Smart Chat és az eszközön futó intelligencia
+
+Milli **Smart Chat**-je lehetővé teszi, hogy egy tranzakciót egyszerű nyelven begépelve rögzítsen — „kávé 4,50” vagy „élelmiszer 62 tegnap” —, és Milli kiszámolja Ön helyett az összeget, a kategóriát és a dátumot.
+
+Mindez **az Ön eszközén** történik. Milli az Apple eszközön futó intelligenciáját és az iOS-be beépített, eszközön futó szövegfunkciókat használja, egy egyszerű, szabályalapú olvasóval mint tartalékkal, amikor ezek nem érhetők el. Nincs AI-szerver: az üzenetét az eszköz olvassa be, és az soha nem kerül elküldésre hozzánk vagy bármely harmadik félnek.
+
+Amikor kiválasztja vagy kijavítja egy jegyzet kategóriáját, Milli megjegyzi azt a szót, így ugyanaz a jegyzet legközelebb magától a megfelelő helyre kerül. Ezek a megtanult szó–kategória társítások kizárólag az Ön eszközén tárolódnak, a többi adata mellett, és soha nem kerülnek továbbításra. Megtekintheti és bármelyiket eltávolíthatja az alkalmazásban. Milli nem használja fel azt, amit begépel, sem bármi mást, amit megad, semmilyen gépi tanulási modell betanításához.
 
 ## iCloud szinkronizálás (opcionális)
 
@@ -92,7 +101,7 @@ Hogy egyértelmű legyen, az Milli **nem**:
 - nyomon követheti Önt alkalmazásokban vagy webhelyeken, vagy megoszthat adatokat adatbrókerekkel
 - felhasználói fiókok létrehozása, vagy e-mail cím, telefonszám vagy bejelentkezés szükséges
 - egészségügyi, fitnesz- vagy helyadatok olvasása az iPhone vagy Apple Watch készülékről
-- használja adatait a gépi tanulási modellek betanításához
+- küldi el adatait bármely AI-szolgáltatásnak, és nem használja fel gépi tanulási modellek betanításához — a Smart Chat teljes egészében az Ön eszközén fut
 
 Az Milli App Store adatvédelmi címkéje ezt tükrözi: **Data Not Collected (nem gyűjtött adatok)**.
 

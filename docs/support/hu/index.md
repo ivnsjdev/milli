@@ -1,6 +1,6 @@
 # Milli támogatás
 
-**Utolsó frissítés:** 2026. szeptember 16
+**Utolsó frissítés:** 2026. október 3
 
 Az Milli egy privát, offline személyes pénzügy-követő az iPhone és Apple Watch számára.
 
@@ -33,6 +33,7 @@ Egyetlen egyszeri fizetés – előfizetés nélkül –, amely feloldja:
 
 - **Unlimited accounts** – annyi számlát és főkönyvet nyomon követhet, amennyire szüksége van
 - **Unlimited categories** – pontosan úgy szervezze meg a kiadásokat, ahogyan gondolja
+- **Unlimited Smart Chat** – tranzakciók rögzítése egyszerű nyelven begépelve
 - **Smart tags** – a kategóriákon kívüli tranzakciók szűrése és csoportosítása
 - **Backup & iCloud sync** – őrizze meg adatait biztonságban és minden eszközén
 - **Home screen widgets** – tekintse meg egyenlegeit az alkalmazás megnyitása nélkül
@@ -45,6 +46,14 @@ A vásárlásokat teljes egészében az Apple bonyolítja le, így magunk nem tu
 ### A pénzügyi adataim privátak?
 
 Igen. Az Milli nem rendelkezik szerverrel, elemzésekkel, hirdetésekkel és harmadik féltől származó SDK-kkal. Adatai az eszközön maradnak, és – csak akkor, ha bekapcsolja az iCloud szinkronizálást – a saját privát iCloud fiókjában, amelyhez nem tudunk hozzáférni. A részletekért lásd az [Adatvédelmi szabályzatot](../../privacy/hu/).
+
+### Hogyan működik a Smart Chat?
+
+A Smart Chat lehetővé teszi, hogy egy tranzakciót úgy rögzítsen, ahogyan mondaná — „kávé 4,50” vagy „élelmiszer 62 tegnap” —, és Milli kitölti az összeget, a kategóriát és a dátumot. Teljes egészében az Ön eszközén fut, és offline működik; az üzenetei soha nem kerülnek sehova elküldésre. A Smart Chat az Milli Premium része — kap néhány ingyenes üzenetet a kipróbáláshoz, a Premium pedig eltávolítja a korlátot.
+
+### Milli rossz kategóriába sorolt egy jegyzetet
+
+Koppintson az üzenetre, és válassza ki a megfelelő kategóriát. Milli megjegyzi a választását, és legközelebb ugyanúgy sorolja be azt a szót, így egy egyszeri hiba nem marad meg. Az alkalmazás beállításaiban megtekintheti a Milli által megtanult szavakat, és bármelyiket eltávolíthatja.
 
 ### Az adataim nem szinkronizálódnak az eszközök között
 
@@ -63,7 +72,7 @@ Az Milli biztonsági mentési fájlt exportálhat a beállításaiból. Tartsa b
 
 ### Használhatom az Milli-et iPaden?
 
-Az Milli jelenleg csak az iPhone számára készült. Kompatibilitási módban fog futni iPaden, de az elrendezés nincs optimalizálva a nagyobb képernyőhöz.
+Igen. Milli iPaden és iPhone-on egyaránt fut. Mindkettőn ugyanazt az egyetlen, fókuszált elrendezést használja, felnagyítva, hogy kitöltse az iPad nagyobb képernyőjét, nem pedig külön, osztott képernyős kialakítást.
 
 ### Hogyan kapcsolhatom ki az Face ID/jelszózárat?
 

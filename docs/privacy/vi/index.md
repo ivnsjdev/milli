@@ -1,6 +1,6 @@
 # Chính sách quyền riêng tư cho Milli
 
-**Ngày có hiệu lực:** Ngày 1 tháng 8 năm 2026 **Cập nhật lần cuối:** Ngày 16 tháng 9 năm 2026
+**Ngày có hiệu lực:** Ngày 1 tháng 8 năm 2026 **Cập nhật lần cuối:** Ngày 3 tháng 10 năm 2026
 
 ## Bản rút gọn
 
@@ -25,9 +25,18 @@ Milli là ứng dụng tài chính cá nhân. Thông tin bạn nhập được l
 | Số liệu chuẩn lương bạn nhập | Trên thiết bị của bạn | Không |
 | Ảnh hồ sơ | Trên thiết bị của bạn | Không |
 | Cài đặt và tùy chọn ứng dụng | Trên thiết bị của bạn | Không |
+| Các từ Milli học được từ chỉnh sửa trò chuyện của bạn | Trên thiết bị của bạn | Không |
 | Giao dịch bạn nhập trên Apple Watch | Trên Apple Watch của bạn, sau đó trên iPhone | Không |
 
 Chúng tôi không thu thập, truyền tải, bán, thuê hoặc chia sẻ bất kỳ nội dung nào vì ứng dụng không có khả năng gửi nó đi bất cứ đâu. Milli không đưa ra yêu cầu mạng nào tới bất kỳ máy chủ nào do chúng tôi hoặc bất kỳ bên thứ ba nào vận hành.
+
+## Smart Chat và trí tuệ trên thiết bị
+
+**Smart Chat** của Milli cho phép bạn ghi lại một giao dịch bằng cách nhập nó bằng ngôn ngữ thông thường — "cà phê 4,50" hoặc "tạp hóa 62 hôm qua" — và Milli sẽ tính ra số tiền, danh mục và ngày tháng cho bạn.
+
+Tất cả những điều này diễn ra **trên thiết bị của bạn**. Milli sử dụng trí tuệ trên thiết bị của Apple và các tính năng văn bản trên thiết bị được tích hợp sẵn trong iOS, cùng với một trình đọc dựa trên quy tắc đơn giản làm phương án dự phòng khi những tính năng đó không khả dụng. Không có máy chủ AI nào: tin nhắn của bạn được đọc trên thiết bị và không bao giờ được gửi cho chúng tôi hay bất kỳ bên thứ ba nào.
+
+Khi bạn chọn hoặc sửa danh mục cho một ghi chú, Milli ghi nhớ từ đó để lần sau ghi chú tương tự tự phân loại chính nó. Các liên kết từ-đến-danh-mục đã học này chỉ được lưu trữ trên thiết bị của bạn, cùng với phần dữ liệu còn lại của bạn, và không bao giờ được truyền đi. Bạn có thể xem lại chúng và xóa bất kỳ liên kết nào trong ứng dụng. Milli không sử dụng những gì bạn nhập, hay bất kỳ thứ gì khác bạn nhập vào, để đào tạo bất kỳ mô hình học máy nào.
 
 ## Đồng bộ hóa iCloud (tùy chọn)
 
@@ -92,7 +101,7 @@ Nói rõ hơn, Milli không **không**:
 - theo dõi bạn trên các ứng dụng hoặc trang web hoặc chia sẻ dữ liệu với nhà môi giới dữ liệu
 - tạo tài khoản người dùng hoặc yêu cầu địa chỉ email, số điện thoại hoặc thông tin đăng nhập
 - đọc dữ liệu về sức khỏe, thể chất hoặc vị trí từ iPhone hoặc Apple Watch của bạn
-- sử dụng dữ liệu của bạn để đào tạo các mô hình học máy
+- gửi dữ liệu của bạn đến bất kỳ dịch vụ AI nào, hoặc sử dụng nó để đào tạo các mô hình học máy — Smart Chat chạy hoàn toàn trên thiết bị của bạn
 
 Nhãn quyền riêng tư App Store của Milli phản ánh điều này: **Data Not Collected (dữ liệu không được thu thập)**.
 

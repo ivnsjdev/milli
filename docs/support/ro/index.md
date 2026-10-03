@@ -1,6 +1,6 @@
 # Suport Milli
 
-**Ultima actualizare:** 16 septembrie 2026
+**Ultima actualizare:** 3 octombrie 2026
 
 Milli este o aplicație privată, offline-first, de urmărire a finanțelor
 personale pentru iPhone și Apple Watch.
@@ -40,6 +40,7 @@ O singură plată unică — fără abonament — care deblochează:
 - **Unlimited accounts** — urmărește câte conturi și registre ai nevoie
 - **Unlimited categories** — organizează-ți cheltuielile exact așa cum le
   gândești
+- **Unlimited Smart Chat** — înregistrează tranzacții scriindu-le în limbaj natural
 - **Smart tags** — filtrează și grupează tranzacțiile dincolo de categorii
 - **Backup & iCloud sync** — păstrează-ți datele în siguranță și pe toate
   dispozitivele tale
@@ -60,6 +61,22 @@ terți. Datele tale rămân pe dispozitivul tău și — doar dacă activezi
 sincronizarea cu iCloud — în propriul tău cont privat de iCloud, la care nu
 putem avea acces. Consultă
 [Politica de confidențialitate](../../privacy/ro/) pentru detalii complete.
+
+### Cum funcționează Smart Chat?
+
+Smart Chat îți permite să înregistrezi o tranzacție scriind-o așa cum ai
+spune-o — „cafea 4,50” sau „cumpărături 62 ieri” — iar Milli completează suma,
+categoria și data. Rulează în întregime pe dispozitivul tău și funcționează
+offline; mesajele tale nu sunt niciodată trimise nicăieri. Smart Chat face
+parte din Milli Premium — primești un număr de mesaje gratuite ca să îl încerci,
+iar Premium elimină limita.
+
+### Milli a încadrat o notă în categoria greșită
+
+Atinge mesajul și alege categoria corectă. Milli îți reține alegerea și
+încadrează acel cuvânt la fel data viitoare, așa că o greșeală izolată nu rămâne.
+Poți consulta cuvintele pe care Milli le-a învățat și poți elimina oricare dintre
+ele, în setările aplicației.
 
 ### Datele mele nu se sincronizează între dispozitive
 
@@ -82,9 +99,9 @@ că tratează-l ca pe un extras de cont bancar.
 
 ### Pot folosi Milli pe iPad?
 
-Momentan, Milli este concepută doar pentru iPhone. Va rula pe un iPad în
-modul de compatibilitate, dar aspectul nu este optimizat pentru ecranul mai
-mare.
+Da. Milli rulează atât pe iPad, cât și pe iPhone. Folosește pe ambele același
+aspect unic și concentrat, mărit pentru a umple ecranul mai mare al iPad-ului,
+în locul unui design separat cu ecran divizat.
 
 ### Cum dezactivez blocarea cu Face ID / cod de acces?
 

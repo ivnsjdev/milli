@@ -1,7 +1,7 @@
 # Datenschutzerklärung für Milli
 
 **Wirksam ab:** 1. August 2026
-**Zuletzt aktualisiert:** 16. September 2026
+**Zuletzt aktualisiert:** 3. Oktober 2026
 
 ## Kurzfassung
 
@@ -33,12 +33,35 @@ gespeichert. Wir erhalten sie nie.
 | Von dir eingegebene Gehalts-Vergleichswerte | Auf deinem Gerät | Nein |
 | Profilbild | Auf deinem Gerät | Nein |
 | App-Einstellungen und Präferenzen | Auf deinem Gerät | Nein |
+| Wörter, die Milli aus deinen Chat-Korrekturen lernt | Auf deinem Gerät | Nein |
 | Transaktionen, die du auf der Apple Watch eingibst | Auf deiner Apple Watch, dann auf deinem iPhone | Nein |
 
 Wir erfassen, übertragen, verkaufen, vermieten oder teilen nichts davon, da
 die App keine Möglichkeit hat, diese Daten irgendwohin zu senden. Milli
 stellt keine Netzwerkanfragen an einen Server, der von uns oder von Dritten
 betrieben wird.
+
+## Smart Chat und Intelligenz auf dem Gerät
+
+Mit dem **Smart Chat** von Milli kannst du eine Transaktion erfassen, indem
+du sie in natürlicher Sprache eingibst – "Kaffee 4,50" oder "Lebensmittel 62
+gestern" – und Milli ermittelt für dich den Betrag, die Kategorie und das
+Datum.
+
+All dies geschieht **auf deinem Gerät**. Milli nutzt Apples Intelligenz auf
+dem Gerät und die in iOS integrierten Textfunktionen auf dem Gerät, mit einem
+einfachen regelbasierten Parser als Rückfalloption, wenn diese nicht
+verfügbar sind. Es gibt keinen KI-Server: Deine Nachricht wird auf dem Gerät
+gelesen und niemals an uns oder an Dritte gesendet.
+
+Wenn du die Kategorie für eine Notiz auswählst oder korrigierst, merkt sich
+Milli dieses Wort, sodass sich dieselbe Notiz beim nächsten Mal von selbst
+einordnet. Diese erlernten Zuordnungen von Wörtern zu Kategorien werden
+ausschließlich auf deinem Gerät gespeichert, zusammen mit dem Rest deiner
+Daten, und werden niemals übertragen. Du kannst sie in der App einsehen und
+jede davon entfernen. Milli verwendet weder das, was du tippst, noch
+irgendetwas anderes, das du eingibst, um ein Machine-Learning-Modell zu
+trainieren.
 
 ## iCloud-Synchronisierung (optional)
 
@@ -170,7 +193,9 @@ Um es ausdrücklich zu sagen: Milli **tut Folgendes nicht**:
   Login verlangen
 - Gesundheits-, Fitness- oder Standortdaten von deinem iPhone oder deiner
   Apple Watch lesen
-- deine Daten zum Trainieren von Machine-Learning-Modellen verwenden
+- deine Daten an einen KI-Dienst senden oder sie zum Trainieren von
+  Machine-Learning-Modellen verwenden – der Smart Chat läuft vollständig auf
+  deinem Gerät
 
 Das App-Store-Datenschutzlabel von Milli spiegelt dies wider:
 **Data Not Collected (Keine Daten erfasst)**.

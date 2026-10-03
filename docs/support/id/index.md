@@ -1,6 +1,6 @@
 # Dukungan Milli
 
-**Terakhir diperbarui:** 16 September 2026
+**Terakhir diperbarui:** 3 Oktober 2026
 
 Milli adalah pelacak keuangan pribadi yang privat dan mengutamakan akses
 offline, untuk iPhone dan Apple Watch.
@@ -42,6 +42,8 @@ Satu kali pembayaran — tanpa langganan — yang membuka:
   Anda butuhkan
 - **Unlimited categories** — atur pengeluaran persis sesuai cara Anda
   memikirkannya
+- **Unlimited Smart Chat** — catat transaksi dengan mengetik dalam bahasa
+  sehari-hari
 - **Smart tags** — filter dan kelompokkan transaksi di luar kategori
 - **Backup & iCloud sync** — jaga data Anda tetap aman dan tersedia di semua
   perangkat Anda
@@ -61,6 +63,22 @@ Ya. Milli tidak memiliki server, analitik, iklan, atau SDK pihak ketiga. Data
 Anda tetap di perangkat Anda, dan — hanya jika Anda mengaktifkan sinkronisasi
 iCloud — di akun iCloud pribadi Anda sendiri, yang tidak dapat kami akses.
 Lihat [Kebijakan Privasi](../../privacy/id/) untuk detail lengkap.
+
+### Bagaimana cara kerja Smart Chat?
+
+Smart Chat memungkinkan Anda mencatat transaksi dengan mengetiknya seperti cara
+Anda mengucapkannya — "kopi 4,50", atau "belanja 62 kemarin" — dan Milli mengisi
+jumlah, kategori, dan tanggalnya. Smart Chat berjalan sepenuhnya di perangkat
+Anda dan bekerja offline; pesan Anda tidak pernah dikirim ke mana pun. Smart
+Chat adalah bagian dari Milli Premium — Anda mendapat sejumlah pesan gratis
+untuk mencobanya, dan Premium menghapus batasnya.
+
+### Milli mengarsipkan catatan di kategori yang salah
+
+Ketuk pesan tersebut dan pilih kategori yang benar. Milli mengingat pilihan Anda
+dan mengarsipkan kata itu dengan cara yang sama di lain waktu, sehingga
+kesalahan sesekali tidak menetap. Anda dapat meninjau kata-kata yang telah
+dipelajari Milli, dan menghapus salah satunya, di pengaturan aplikasi.
 
 ### Data saya tidak tersinkronkan antar perangkat
 
@@ -82,9 +100,9 @@ perlakukan seperti laporan rekening bank.
 
 ### Bisakah saya menggunakan Milli di iPad?
 
-Milli saat ini dirancang hanya untuk iPhone. Aplikasi ini akan berjalan di
-iPad dalam mode kompatibilitas, tetapi tata letaknya tidak dioptimalkan untuk
-layar yang lebih besar.
+Ya. Milli berjalan di iPad maupun iPhone. Keduanya menggunakan tata letak
+tunggal yang sama dan terfokus, diperbesar untuk mengisi layar iPad yang lebih
+besar alih-alih desain layar terpisah tersendiri.
 
 ### Bagaimana cara mematikan kunci Face ID / kode sandi?
 

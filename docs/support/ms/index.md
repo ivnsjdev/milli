@@ -1,6 +1,6 @@
 # Sokongan Milli
 
-**Kemas kini terakhir:** 16 September 2026
+**Kemas kini terakhir:** 3 Oktober 2026
 
 Milli ialah penjejak kewangan peribadi yang persendirian dan luar talian
 sepenuhnya, untuk iPhone dan Apple Watch.
@@ -42,6 +42,8 @@ Satu bayaran sekali sahaja — tiada langganan — yang membuka kunci:
   anda perlukan
 - **Unlimited categories** — susun perbelanjaan anda tepat seperti cara
   anda memikirkannya
+- **Unlimited Smart Chat** — rekodkan transaksi dengan menaip dalam
+  bahasa harian
 - **Smart tags** — tapis dan kumpulkan transaksi melangkaui kategori
 - **Backup & iCloud sync** — pastikan data anda selamat dan berada pada
   semua peranti anda
@@ -62,6 +64,24 @@ Data anda kekal pada peranti anda, dan — hanya jika anda mengaktifkan
 penyegerakan iCloud — dalam akaun iCloud peribadi anda sendiri, yang tidak
 dapat kami akses. Lihat
 [Dasar Privasi](../../privacy/ms/) untuk butiran lengkap.
+
+### Bagaimana Smart Chat berfungsi?
+
+Smart Chat membolehkan anda merekodkan transaksi dengan menaipnya
+sebagaimana anda menyebutnya — "kopi 4.50", atau "barangan runcit 62
+semalam" — dan Milli mengisi jumlah, kategori dan tarikh. Ia berjalan
+sepenuhnya pada peranti anda dan berfungsi di luar talian; mesej anda
+tidak pernah dihantar ke mana-mana. Smart Chat ialah sebahagian daripada
+Milli Premium — anda mendapat beberapa mesej percuma untuk mencubanya,
+dan Premium mengeluarkan had tersebut.
+
+### Milli memfailkan nota dalam kategori yang salah
+
+Ketik mesej tersebut dan pilih kategori yang betul. Milli mengingati
+pilihan anda dan memfailkan perkataan itu dengan cara yang sama pada
+kali berikutnya, jadi kesilapan sekali-sekala tidak kekal. Anda boleh
+menyemak perkataan yang telah dipelajari Milli, dan mengeluarkan
+mana-mana daripadanya, dalam tetapan aplikasi.
 
 ### Data saya tidak disegerakkan antara peranti
 
@@ -84,9 +104,10 @@ anda, jadi layan ia seperti penyata bank.
 
 ### Bolehkah saya menggunakan Milli pada iPad?
 
-Milli kini direka khusus untuk iPhone sahaja. Ia akan berjalan pada iPad
-dalam mod keserasian, tetapi susun atur tidak dioptimumkan untuk skrin
-yang lebih besar.
+Ya. Milli berjalan pada iPad dan juga iPhone. Ia menggunakan susun atur
+tunggal yang sama dan terfokus pada kedua-duanya, diperbesar untuk
+memenuhi skrin iPad yang lebih besar dan bukannya reka bentuk skrin
+terpisah yang berasingan.
 
 ### Bagaimana saya mematikan kunci Face ID / kod laluan?
 

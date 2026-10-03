@@ -1,6 +1,6 @@
 # Milli tuki
 
-**Viimeksi päivitetty:** 16. syyskuuta 2026
+**Viimeksi päivitetty:** 3. lokakuuta 2026
 
 Milli on yksityinen, offline-ensimmäinen henkilökohtaisen talouden seurantalaite iPhone:lle ja Apple Watch:lle.
 
@@ -33,6 +33,7 @@ Yksi kertamaksu – ei tilausta – joka avaa:
 
 - **Unlimited accounts** — seuraa niin monta tiliä ja kirjanpitoa kuin tarvitset
 - **Unlimited categories** – järjestä kulutus täsmälleen niin kuin ajattelet
+- **Unlimited Smart Chat** — kirjaa tapahtumia kirjoittamalla ne tavallisella kielellä
 - **Smart tags** — suodata ja ryhmittele tapahtumat luokkien ulkopuolella
 - **Backup & iCloud sync** – pidä tietosi turvassa ja kaikilla laitteillasi
 - **Home screen widgets** — näet saldosi avaamatta sovellusta
@@ -45,6 +46,14 @@ Ostokset hoitaa kokonaan Apple, joten emme voi myöntää hyvityksiä itse. Pyyd
 ### Ovatko taloustietoni yksityisiä?
 
 Kyllä. Milli:ssä ei ole palvelinta, analytiikkaa, mainoksia eikä kolmannen osapuolen SDK:ita. Tietosi pysyvät laitteellasi ja – vain jos otat iCloud-synkronoinnin käyttöön – omalla yksityisellä iCloud-tililläsi, jota emme voi käyttää. Katso tarkemmat tiedot [tietosuojakäytännöstä](../../privacy/fi/).
+
+### Miten Smart Chat toimii?
+
+Smart Chat antaa sinun kirjata tapahtuman kirjoittamalla sen niin kuin sanoisit sen — "kahvi 4,50" tai "ruokaostokset 62 eilen" — ja Milli täyttää summan, luokan ja päivämäärän. Se toimii kokonaan laitteellasi ja offline-tilassa; viestejäsi ei koskaan lähetetä minnekään. Smart Chat on osa Milli Premium:ää — saat tietyn määrän ilmaisia viestejä sen kokeiluun, ja Premium poistaa rajan.
+
+### Milli luokitteli muistiinpanon väärään luokkaan
+
+Napauta viestiä ja valitse oikea luokka. Milli muistaa valintasi ja luokittelee kyseisen sanan samalla tavalla ensi kerralla, joten kertaluonteinen virhe ei jää pysyväksi. Voit tarkastella Milli:n oppimia sanoja ja poistaa minkä tahansa niistä sovelluksen asetuksissa.
 
 ### Tietoni eivät synkronoidu laitteiden välillä
 
@@ -63,7 +72,7 @@ Milli voi viedä varmuuskopiotiedoston asetuksistaan. Säilytä sitä turvallise
 
 ### Voinko käyttää Milli:ää iPadissa?
 
-Milli on tällä hetkellä suunniteltu vain iPhone:lle. Se toimii iPadissa yhteensopivuustilassa, mutta asettelua ei ole optimoitu suuremmalle näytölle.
+Kyllä. Milli toimii iPadissa yhtä lailla kuin iPhone:ssa. Se käyttää molemmissa samaa yhtä ja selkeää asettelua, suurennettuna täyttämään iPadin isomman näytön sen sijaan, että käytettäisiin erillistä jaetun näytön suunnittelua.
 
 ### Kuinka saan Face ID / pääsykoodilukon pois päältä?
 

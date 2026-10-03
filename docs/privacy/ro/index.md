@@ -1,7 +1,7 @@
 # Politica de confidențialitate pentru Milli
 
 **Data intrării în vigoare:** 1 august 2026
-**Ultima actualizare:** 16 septembrie 2026
+**Ultima actualizare:** 3 octombrie 2026
 
 ## Pe scurt
 
@@ -32,12 +32,33 @@ primim niciodată.
 | Cifrele de referință salarială pe care le introduci | Pe dispozitivul tău | Nu |
 | Poza de profil | Pe dispozitivul tău | Nu |
 | Setările și preferințele aplicației | Pe dispozitivul tău | Nu |
+| Cuvintele pe care Milli le învață din corecțiile tale din chat | Pe dispozitivul tău | Nu |
 | Tranzacțiile pe care le introduci pe Apple Watch | Pe Apple Watch-ul tău, apoi pe iPhone-ul tău | Nu |
 
 Nu colectăm, nu transmitem, nu vindem, nu închiriem și nu partajăm nimic din
 acestea, deoarece aplicația nu are capacitatea de a le trimite nicăieri.
 Milli nu face nicio solicitare de rețea către niciun server operat de noi sau
 de vreun terț.
+
+## Smart Chat și inteligența de pe dispozitiv
+
+**Smart Chat**-ul din Milli îți permite să înregistrezi o tranzacție scriind-o
+în limbaj natural — „cafea 4,50” sau „cumpărături 62 ieri” — iar Milli
+calculează pentru tine suma, categoria și data.
+
+Totul se petrece **pe dispozitivul tău**. Milli folosește inteligența de pe
+dispozitiv a Apple și funcțiile de text de pe dispozitiv integrate în iOS, cu un
+simplu cititor bazat pe reguli ca rezervă atunci când acestea nu sunt
+disponibile. Nu există niciun server de IA: mesajul tău este citit pe dispozitiv
+și nu ne este trimis niciodată nouă sau vreunui terț.
+
+Când alegi sau corectezi categoria pentru o notă, Milli reține acel cuvânt,
+astfel încât aceeași notă să se încadreze singură data viitoare. Aceste asocieri
+învățate dintre cuvânt și categorie sunt stocate doar pe dispozitivul tău,
+alături de restul datelor tale, și nu sunt niciodată transmise. Le poți consulta
+și poți elimina oricare dintre ele, în aplicație. Milli nu folosește ceea ce
+scrii, nici altceva din ce introduci, pentru a antrena vreun model de învățare
+automată.
 
 ## Sincronizarea cu iCloud (opțională)
 
@@ -163,7 +184,8 @@ Pentru claritate, Milli **nu**:
   de telefon sau autentificare
 - citește date despre sănătate, activitate fizică sau locație de pe
   iPhone-ul sau Apple Watch-ul tău
-- folosește datele tale pentru a antrena modele de învățare automată
+- trimite datele tale vreunui serviciu de IA și nu le folosește pentru a antrena
+  modele de învățare automată — Smart Chat rulează în întregime pe dispozitivul tău
 
 Eticheta de confidențialitate din App Store a Milli reflectă acest lucru:
 **Data Not Collected (date necolectate)**.

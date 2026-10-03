@@ -1,6 +1,6 @@
 # Milli-support
 
-**Senast uppdaterad:** 16 september 2026
+**Senast uppdaterad:** 3 oktober 2026
 
 Milli är en privat, offline-first app för privatekonomi till iPhone och Apple
 Watch.
@@ -39,6 +39,8 @@ En enda engångsbetalning — ingen prenumeration — som låser upp:
 - **Unlimited accounts** — spåra så många konton och huvudböcker du behöver
 - **Unlimited categories** — organisera utgifter precis som du tänker kring
   dem
+- **Unlimited Smart Chat** — logga transaktioner genom att skriva in dem på
+  vardagsspråk
 - **Smart tags** — filtrera och gruppera transaktioner utöver kategorier
 - **Backup & iCloud sync** — håll dina uppgifter säkra och tillgängliga på
   alla dina enheter
@@ -57,6 +59,22 @@ tredje part. Dina uppgifter stannar på din enhet, och — endast om du
 aktiverar iCloud-synkronisering — i ditt eget privata iCloud-konto, som vi
 inte har tillgång till. Se [integritetspolicyn](../../privacy/sv/) för
 fullständiga detaljer.
+
+### Hur fungerar Smart Chat?
+
+Smart Chat låter dig registrera en transaktion genom att skriva in den som du
+skulle säga den — ”kaffe 4,50” eller ”matvaror 62 i går” — och Milli fyller i
+beloppet, kategorin och datumet. Den körs helt på din enhet och fungerar offline;
+dina meddelanden skickas aldrig någonstans. Smart Chat är en del av Milli Premium
+— du får ett antal gratis meddelanden för att prova det, och Premium tar bort
+gränsen.
+
+### Milli sorterade en anteckning under fel kategori
+
+Tryck på meddelandet och välj rätt kategori. Milli kommer ihåg ditt val och
+sorterar det ordet på samma sätt nästa gång, så ett engångsmisstag fastnar inte.
+Du kan granska de ord Milli har lärt sig, och ta bort vilka som helst av dem, i
+appens inställningar.
 
 ### Mina uppgifter synkroniseras inte mellan enheter
 
@@ -78,8 +96,9 @@ kontroll, så behandla den som ett kontoutdrag.
 
 ### Kan jag använda Milli på iPad?
 
-Milli är för närvarande utformad enbart för iPhone. Den körs på en iPad i
-kompatibilitetsläge, men layouten är inte optimerad för den större skärmen.
+Ja. Milli körs på iPad såväl som iPhone. Den använder samma enda, fokuserade
+layout på båda, uppskalad för att fylla iPadens större skärm i stället för en
+separat design med delad skärm.
 
 ### Hur stänger jag av Face ID-/kodlåset?
 

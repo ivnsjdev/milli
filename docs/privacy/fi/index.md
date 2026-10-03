@@ -1,6 +1,6 @@
 # Milli:n tietosuojakäytäntö
 
-**Voimaan:** 1.8.2026 **Viimeksi päivitetty:** 16.9.2026
+**Voimaan:** 1.8.2026 **Viimeksi päivitetty:** 3.10.2026
 
 ## Lyhyt versio
 
@@ -25,9 +25,18 @@ Milli on henkilökohtaisen talouden sovellus. Syöttämäsi tiedot tallennetaan 
 | Antamasi palkkavertailuluvut | Laitteessasi | Ei |
 | Profiilikuva | Laitteessasi | Ei |
 | Sovellusasetukset ja -asetukset | Laitteessasi | Ei |
+| Sanat, jotka Milli oppii chat-korjauksistasi | Laitteessasi | Ei |
 | Tapahtumat, jotka syötät Apple Watch | Laitteessa Apple Watch ja sitten iPhone | Ei |
 
 Emme kerää, lähetä, myy, vuokraa tai jaa sitä, koska sovellus ei pysty lähettämään sitä minnekään. Milli ei tee verkkopyyntöjä millekään meidän tai kolmannen osapuolen ylläpitämille palvelimille.
+
+## Smart Chat ja laitteella toimiva älykkyys
+
+Milli:n **Smart Chat** antaa sinun kirjata tapahtuman kirjoittamalla sen tavallisella kielellä — "kahvi 4,50" tai "ruokaostokset 62 eilen" — ja Milli selvittää puolestasi summan, luokan ja päivämäärän.
+
+Kaikki tämä tapahtuu **laitteellasi**. Milli käyttää Applen laitteella toimivaa älykkyyttä ja iOS:ään sisäänrakennettuja laitteella toimivia tekstitoimintoja, ja varajärjestelmänä yksinkertaista sääntöpohjaista lukijaa, kun ne eivät ole käytettävissä. Tekoälypalvelinta ei ole: viestisi luetaan laitteella, eikä sitä koskaan lähetetä meille tai millekään kolmannelle osapuolelle.
+
+Kun valitset tai korjaat muistiinpanon luokan, Milli muistaa kyseisen sanan, jotta sama muistiinpano luokittelee itsensä ensi kerralla. Nämä opitut sanan ja luokan väliset yhteydet tallennetaan vain laitteellesi, muiden tietojesi rinnalle, eikä niitä koskaan lähetetä. Voit tarkastella niitä ja poistaa minkä tahansa niistä sovelluksessa. Milli ei käytä kirjoittamaasi tai mitään muuta syöttämääsi minkään koneoppimismallin kouluttamiseen.
 
 ## iCloud synkronointi (valinnainen)
 
@@ -92,7 +101,7 @@ Tarkemmin sanottuna Milli **ei**:
 - seurata sinua sovellusten tai verkkosivustojen välillä tai jakaa tietoja tiedonvälittäjien kanssa
 - luoda käyttäjätilejä tai vaatia sähköpostiosoitetta, puhelinnumeroa tai kirjautumista
 - lue terveys-, kunto- tai sijaintitietoja iPhone- tai Apple Watch-laitteesta
-- käytä tietojasi koneoppimismallien kouluttamiseen
+- lähetä tietojasi millekään tekoälypalvelulle tai käytä niitä koneoppimismallien kouluttamiseen — Smart Chat toimii kokonaan laitteellasi
 
 Milli:n App Store-tietosuojatarra kuvastaa tätä: **Data Not Collected (tietoja ei kerätä)**.
 
